@@ -1,0 +1,27 @@
+Firstly, ensure you have a strong grasp of one programming language, including its basics up to the usage of data structures like Stacks, Vectors, Sets, Queues, Strings, and Maps, along with their operations.
+
+Next, choose a platform, either Codeforces or CodeChef. Set a goal to reach specialist in Codeforces and above or 3-star in CodeChef and above. Participate in contests regularly until you achieve this goal.
+
+Once you've accomplished the above steps, you'll have proficiency in competitive programming up to a medium level. Now, transition to platforms like LeetCode and GeeksforGeeks for problem-solving. Aim to reach Knight level in LeetCode and higher.
+
+Here are some recommended resources:
+
+For DSA: Utilize the "Take U Forward" YouTube channel and their accompanying problem sheet.
+For CP: Refer to the CSES problem sheet for practice and learning.
+With consistent practice and dedication, you'll steadily improve your competitive programming skills.
+
+Resources can be used for structured Learning :
+
+* https://youkn0wwho.academy/topic-list
+
+* https://asksenior.in/learn
+
+* https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+
+* https://cses.fi/problemset/
+
+How to approach the problem and how much time should be given ?
+
+- Just 30 min for thinking . Atleast try to implement bruteforce approach first then think for optimization or any basic idea try to implement it . You'll get the wrong answer right . then dry run on the test case and understand why the solution is going wrong . then build on top of that . Like that you should approach the problem. 
+
+
