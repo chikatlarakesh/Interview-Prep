@@ -2,7 +2,7 @@
 
 Welcome to the **Interview Prep** repository! This repository is designed to be a comprehensive resource for preparing for technical interviews. It includes various materials, including study guides, practice problems, and essential notes, aimed at helping you ace your interviews and land your dream job.
 
-## Repository Structure
+## Repository Structuree
 
 ### `Links`
 This folder contains curated links to various resources, including study guides, problem sets, and other helpful materials for interview preparation.
